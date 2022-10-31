@@ -10,6 +10,4 @@ services:
       dockerfile: Dockerfile
     ports:
       - "${PORT}:80"
-    volumes:
-      - "./src:/var/www/html"
 
