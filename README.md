@@ -24,4 +24,4 @@ To deploy this project run
 
 ## Demo
 
-A live demo is hoted on an [Azure Linux VM]() using an Azure [MySQL instance]()
+A live demo is hosted on an [Azure Linux VM](http://farmhouse.davidvelho.tech:8080) using an Azure MySQL instance as the database.
